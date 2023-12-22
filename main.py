@@ -8,23 +8,21 @@ with open(filename) as file:
     for line in file:
         prompt = line.rstrip()
         prompts.append(prompt)
-        # print(prompt)
 
-# print(prompts)
+def generate_prompts(lang):
+    basepath = "src/prompts/"
+    output_name = lang + "_prompts.txt"
+    output_path = basepath + output_name
+    output_path = path.relpath(output_path)
 
-prompt_test = prompts[:10]
-print(prompt_test)
+    translations = []
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.truncate(0)
+        for entry in prompts:
+            translation = GoogleTranslator(source='en', target=lang).translate(entry)
+            translations.append(translation)
+            print(translation, file=f)
 
-basepath = "src/prompts/"
-fr_name = "fr_prompts.txt"
-fr_path = basepath + fr_name
-fr_path = path.relpath(fr_path)
+    print(translations)
 
-fr_translations = []
-with open(fr_path, 'w', encoding='utf-8') as f:
-    for entry in prompt_test:
-        translation_fr = GoogleTranslator(source='en', target='fr').translate(entry)
-        fr_translations.append(translation_fr)
-        print(translation_fr, file=f)
-
-print(fr_translations)
+generate_prompts("es")

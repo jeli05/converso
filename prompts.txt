@@ -1,7 +1,6 @@
 Tell me about yourself.
 Have you done anything exciting lately?
 What made you smile today?
-How did you meet the host?
 What's your favorite form of social media?
 What was the last good book you read?
 Do you listen to any podcasts? Which is your favorite?
@@ -28,26 +27,17 @@ How many countries have you been to?
 What's your favorite city you've visited?
 Would you rather travel via plane or boat?
 Would you rather be really hot or really cold?
-What are your thoughts on the British royal family?
 Do you like documentaries? Have you watched any good ones recently?
 Who is your favorite celebrity couple ever?
 Which celebrity couple do you wish would get back together?
 If you could host a talk show, who would you have on first?
 What's your favorite sport?
 What sport do you wish you were really good at?
-What's the best holiday?
 How did you spend your last birthday?
-Do you believe men and women can ever just be friends?
-Are you having a good time?
-Why did you come tonight?
-Was it a pain for you to get here tonight?
-I love that shirt/jacket/dress/shoesWhere did you get it?
-Wow, it's so hot/cold in here.
-Do you know a lot of people here?
 What are you reading right now?
-What's your favorite restaurant around here?
+What's your favorite restaurant?
 What's the next exciting event you have coming up?
-Doing anything fun this weekend?
+What are your plans for this weekend?
 Do you have any pets?
 What's one interesting thing about yourself no one really knows?
 What do you do for a living?
@@ -55,13 +45,11 @@ If you could move anywhere, where would you go?
 What was the last movie you saw?
 What do you normally do for fun?
 What hobby do you wish you had more time for?
-If you weren't here, what would you be doing?
 What is your favorite holiday?
 Do you have any nicknames?
 What's your biggest pet peeve?
 What is your favorite guilty pleasure TV show?
 Tell me three fun facts about yourself.
-The food looks greatWhat's the best thing you've had so far?
 Have you ever been here before?
 What's the best thing about your job?
 Where did you grow up?
@@ -109,7 +97,6 @@ What are your goals when it comes to work?
 What inspires you at work each day?
 If you could change one thing about this industry, what would it be?
 Who has been your career role model?
-Man, I really hate networking.
 What's the most interesting thing you've learned at work?
 Do you ever travel for your job? Where have you gone?
 How do you keep yourself organized every day?
@@ -121,7 +108,6 @@ What do you find most beneficial about networking events?
 Do you ever sing in the shower?
 What is the worst piece of advice you've ever gotten?
 What's the most embarrassing thing that's happened to you recently?
-Tell me about the worst pickup line you've ever gotten.
 What is your favorite celebrity scandal right now?
 What's the worst thing you've ever worn?
 If you could do anything illegal without getting in trouble, what would it be?
@@ -205,7 +191,6 @@ What's your favorite bar?
 What's your favorite thing to eat here?
 Do you like this song?
 If you could have them play any song right now, what would it be?
-What were you doing before you came here?
 What's your favorite place to hang out around here?
 Are you having fun?
 Who are you here with?
@@ -243,8 +228,5 @@ What's your most irrational fear?
 Have you ever really kept a New Year's resolution?
 If you could change your name, what would you change it to?
 How would your life be different if social media didn't exist?
-What do you think my best personality trait is?
-What did you notice first about me?
 What's your favorite thing to do on your day off work?
-What was the first job you ever had?
 What's the best compliment you've ever gotten?
