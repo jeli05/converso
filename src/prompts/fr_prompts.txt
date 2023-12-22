@@ -1,10 +1,232 @@
 Parle-moi de toi.
 Avez-vous fait quelque chose d'excitant ces derniers temps ?
 Qu'est-ce qui vous a fait sourire aujourd'hui?
-Comment avez-vous rencontré l’hôte ?
 Quelle est votre forme de réseau social préférée ?
 Quel a été le dernier bon livre que vous avez lu ?
 Écoutez-vous des podcasts ? Lequel est ton favori?
 Selon vous, quelle est la meilleure émission sur Netflix en ce moment ?
 Avez-vous fait des voyages intéressants ces derniers temps ?
 Selon vous, quel a été le meilleur film de l’année jusqu’à présent ?
+Quelle chanson aimerais-tu pouvoir mettre en ce moment ?
+Êtes-vous plutôt chat ou chien ?
+Pensez-vous que vous êtes introverti ou extraverti ?
+Si vous n’aviez pas le travail que vous avez aujourd’hui, que seriez-vous ?
+Quel est votre talent caché le plus étrange ?
+Qu’est-ce que les gens sont toujours surpris d’apprendre à votre sujet ?
+Quelle est la partie la plus gratifiante de votre carrière ?
+Où veux-tu être dans cinq ans ?
+Quel super pouvoir souhaiteriez-vous avoir ?
+Où iriez-vous en vacances si vous n’aviez pas de budget ?
+Si vous pouviez voyager dans le temps, dans quelle décennie choisiriez-vous de vivre ?
+Quelle est la meilleure chose que vous ayez jamais achetée sur Amazon ?
+Quel est le dernier concert auquel tu es allé ?
+Quelle est la chose sans laquelle vous ne pouvez pas vivre ?
+Quel est le rêve le plus étrange que vous ayez fait récemment ?
+Quel est votre livre préféré de tous les temps ?
+Dans combien de pays es-tu allé ?
+Quelle est votre ville préférée que vous avez visitée ?
+Vous préférez voyager en avion ou en bateau ?
+Préférez-vous avoir très chaud ou vraiment froid ?
+Vous aimez les documentaires ? En avez-vous regardé de bons récemment ?
+Quel est votre couple de célébrités préféré ?
+Quel couple de célébrités souhaiteriez-vous se remettre ensemble ?
+Si vous pouviez animer un talk-show, qui auriez-vous en premier ?
+Quel est votre sport préféré?
+Dans quel sport aimerais-tu être vraiment bon ?
+Comment as-tu passé ton dernier anniversaire ?
+Que lisez vous en ce moment?
+Quel est votre restaurant préféré?
+Quel est le prochain événement passionnant que vous organisez ?
+Quels sont vos plans pour ce week-end?
+Avez-vous des animaux domestiques?
+Quelle est la chose intéressante à propos de vous que personne ne sait vraiment ?
+Que fais-tu dans la vie?
+Si vous pouviez déménager n’importe où, où iriez-vous ?
+Quel est le dernier film que vous avez vu ?
+Que fais-tu habituellement pour t’amuser ?
+Pour quel passe-temps aimerais-tu avoir plus de temps ?
+Quelles sont tes vacances préférées?
+Avez-vous des surnoms ?
+Quelle est votre plus grande bête noire?
+Quelle est votre émission télévisée de plaisir coupable préférée ?
+Racontez-moi trois faits amusants sur vous.
+Êtes-vous déjà venu ici auparavant ?
+Quelle est la meilleure chose dans votre travail ?
+Où as tu grandi?
+Aimez-vous cuisiner?
+Dans quel passe-temps aimerais-tu être bon ?
+Quelle chanson avez-vous eu en tête cette semaine ?
+Quels sont tes projets à long terme?
+Qui est votre modèle?
+Que voulais-tu faire quand tu étais enfant ?
+Quel est votre plus grand regret dans la vie ?
+Quelles sont les trois choses principales sur votre liste de choses à faire ?
+Quelle a été votre plus grande réussite jusqu’à présent ?
+Quelle est la chose que vous souhaiteriez pouvoir faire et que vous savez que vous ne ferez probablement jamais ?
+De quoi as tu le plus peur?
+Quel est le plus gros risque que vous ayez jamais pris ?
+Parlez-moi du conseil qui a le plus changé votre vie que vous ayez jamais entendu.
+Quand es-tu le plus heureux ?
+Qu'est-ce qui vous calme toujours lorsque vous êtes vraiment stressé et bouleversé ?
+Qui dans votre vie a eu le plus d’influence sur vous ?
+Quelle est la chose la plus difficile que vous ayez jamais faite ?
+Qu’est-ce qui vous fait le plus peur dans l’avenir ?
+Comment vos priorités ont-elles changé au cours des 10 dernières années ?
+Quelle est la chose la plus gentille qu’on ait jamais faite pour vous ?
+Décrivez votre week-end parfait.
+Quelle est l’opinion la plus controversée que vous ayez ?
+Si vous pouviez changer quelque chose dans votre personnalité, que choisiriez-vous ?
+Quelle est la première chose que vous feriez si vous gagniez à la loterie ?
+Si vous pouviez inviter une personne célèbre à dîner, qui serait-ce ?
+Qui vous manque le plus dans votre passé ?
+Si vous pouviez remonter le temps, quelle situation vous feriez différemment ?
+Quelle est la personne la plus importante dans votre vie en ce moment ?
+Que pensais-tu faire à cet âge quand tu étais enfant ?
+Pensez-vous que les réseaux sociaux détruisent notre communication ?
+De quelle technologie pourriez-vous vivre sans ?
+À votre avis, à quoi ressemblera le monde dans 20 ans ?
+Dans quel domaine avez-vous échoué récemment ?
+Qu’est-ce qui vous a poussé à choisir cette carrière ?
+Quelle est la chose la plus intéressante sur laquelle vous avez travaillé ces derniers temps ?
+Qu’est-ce que vous aimez le plus dans votre travail ?
+Quel a été ton premier métier?
+Depuis combien de temps occupez-vous votre emploi actuel ?
+Pourquoi pensez-vous avoir été embauché ?
+Quelle est la chose la plus frustrante dans votre travail ?
+Quels sont vos objectifs en matière de travail ?
+Qu'est-ce qui vous inspire au travail chaque jour ?
+Si vous pouviez changer une chose dans cette industrie, que changeriez-vous ?
+Qui a été votre modèle de carrière ?
+Quelle est la chose la plus intéressante que vous ayez apprise au travail ?
+Est-ce qu'il vous arrive de voyager pour votre travail ? Où es tu allé?
+Comment restez-vous organisé au quotidien ?
+À combien d’e-mails avez-vous évité de répondre cette semaine ?
+Selon vous, qu’est-ce qui fait de quelqu’un un bon manager ?
+Quel est le plus grand défi que vous ayez relevé cette année ?
+Quel est votre projet préféré sur lequel vous avez travaillé jusqu’à présent ?
+Qu’est-ce que vous trouvez le plus bénéfique dans les événements de réseautage ?
+Est-ce qu'il t'arrive de chanter sous la douche ?
+Quel est le pire conseil que vous ayez jamais reçu ?
+Quelle est la chose la plus embarrassante qui vous soit arrivée récemment ?
+Quel est votre scandale de célébrité préféré en ce moment ?
+Quelle est la pire chose que vous ayez jamais portée ?
+Si vous pouviez faire quelque chose d’illégal sans avoir d’ennuis, que serait-ce ?
+Quelle est la blague la plus stupide que vous ayez jamais entendue ?
+À quand remonte la dernière fois où vous avez ri au point de pleurer ?
+Quelle est la meilleure farce que vous ayez jamais faite à quelqu'un ?
+Selon vous, quel est le film le plus drôle de tous les temps ?
+Qu'est-ce qui vous fait toujours rire, même lorsque vous êtes bouleversé ?
+Quel est votre comédien préféré ?
+À quelle étrange théorie du complot croyez-vous ?
+Un hot-dog est-il un sandwich ?
+Quelle célébrité vous incarnerait dans un film sur votre vie ?
+Quelle est la chose la plus étrange que vous aimiez quand vous étiez enfant ?
+Qu'est-ce qui est vraiment populaire en ce moment et qui sera ridicule dans cinq ans ?
+Quelle est la pire tendance à laquelle vous avez participé ?
+Quelle est votre blague préférée ?
+Où vas-tu à l'école?
+Quelle est votre matière/classe préférée ?
+Qui est votre professeur préféré?
+Pourquoi cette personne est-elle votre professeur préféré ?
+Quelle matière aimerais-tu ne jamais avoir à suivre ?
+Quelle est la dernière mission que vous avez vraiment bien accomplie ?
+Qui est ton meilleur ami dans ta classe ?
+Quelle est votre tenue préférée à porter à l'école ?
+Crois-tu aux aliens?
+Si vous pouviez être n’importe quel animal, lequel serait-ce ?
+Que veux-tu faire quand tu seras grand ?
+As-tu des freres ou des soeurs?
+Qu’aimez-vous le plus chez votre maman et votre papa ?
+Où aurais-tu aimé être en ce moment ?
+Quelle est votre chanson préférée?
+Quel est votre personnage de dessin animé préféré ?
+Avez-vous un personnage Disney préféré ?
+Si vous pouviez changer une chose à l’école, ce serait quoi ?
+Aimes-tu nager?
+Quel est votre jeu préféré ?
+Quelle est ta couleur préférée?
+Quelle nourriture détestes-tu ?
+Quel est votre jouet préféré pour jouer ?
+Que faites vous demain?
+De quoi as-tu peur?
+Êtes-vous déjà venu ici auparavant ?
+Quelle est la chose qui vous fait toujours rire ?
+Quelle est la chose la plus importante que je devrais savoir sur toi ?
+Quel est le pire rendez-vous que vous ayez jamais eu ?
+Comment êtes-vous devenu proche de votre meilleur ami ?
+Quel est votre film préféré que vous pourriez regarder encore et encore ?
+Quel a toujours été le métier de vos rêves ?
+Si vous pouviez sortir avec une célébrité, qui serait-ce ?
+Êtes-vous un dépensier ou un épargnant ?
+Qu'est-ce que vous aimez le plus dans votre travail?
+Selon vous, quelle est votre bizarrerie la plus ennuyeuse ?
+Quel est le SMS le plus étrange que vous ayez jamais reçu ?
+Qu’est-ce que tu détestes le plus dans les rencontres ?
+Quel est ton endroit préféré dans le monde ?
+Quelles sont les meilleures vacances que vous ayez jamais passées ?
+À quel point êtes-vous proche de votre famille ?
+Préférez-vous rester à la maison ou sortir ?
+Où es-tu allé à l'école ?
+Avez-vous déjà vécu ailleurs ?
+Dans quoi êtes-vous doué et dont vous êtes vraiment fier ?
+Quel est ton talent secret ?
+Selon vous, quelle est l’habitude la plus ennuyeuse ?
+Parlez-moi d’une chose sur votre liste de choses à faire.
+Qu’est-ce qui vous déplaît le plus dans votre travail ?
+Qu’est-ce qui vous passionne le plus ?
+Préférez-vous appeler ou envoyer des SMS ?
+Que pensez-vous honnêtement des médias sociaux ?
+Que recherchez-vous dans une relation ?
+Avez-vous entendu parler (d'une grande nouvelle) ?
+Quelle est la chose qui vous a fait rire cette semaine ?
+Quel est ton plat préféré?
+Quelle est la pire chose que vous ayez jamais mangée ?
+Quel film avez-vous vraiment hâte de voir ?
+Que faites-vous de votre temps libre?
+Êtes-vous du genre matinal ou plutôt couche-tard ?
+Que bois-tu?
+Quelle boisson dois-je commander ensuite ?
+Êtes-vous déjà venu ici auparavant ?
+Quel est votre bar préféré ?
+Quelle est votre chose préférée à manger ici ?
+Aimes-tu cette chanson?
+Si vous pouviez leur faire jouer n’importe quelle chanson maintenant, quelle serait-elle ?
+Quel est votre endroit préféré pour sortir ici ?
+Est-ce que tu t'amuses?
+Avec qui es-tu ici ?
+Où préféreriez-vous être en ce moment ?
+Quelle chanson te ferais-tu danser à ce moment précis ?
+Comment attirer toujours l'attention d'un barman ?
+Voudriez-vous danser au sommet de ce bar ?
+Avez-vous déjà fait du karaoké ?
+J'aime ta chemise, où as-tu eu ça ?
+Comment connaissez-vous les amis avec qui vous êtes ici ?
+Connaissez-vous un tel ?
+Qu'est-ce qui vous a fait rire aujourd'hui ?
+Si vous ne pouviez manger qu’un seul aliment pour le reste de votre vie, lequel serait-il ?
+Quelle est votre meilleure astuce pour économiser de l’argent ?
+Quelle est votre citation préférée en ce moment ?
+Avez-vous parlé à un tel récemment ?
+Qu'as-tu fait depuis la dernière fois que je t'ai vu ?
+Est-ce que quelque chose de grand a changé au travail ?
+Comment vont tes parents ?
+Qu’est-ce que tu aimes à la télé ces derniers temps ?
+Quel est votre meilleur conseil pour une bonne routine matinale ?
+Quelle est votre meilleure astuce culinaire ?
+Quelle est la chose la plus étrange que vous ayez vue sur Facebook récemment ?
+Quel est votre endroit préféré pour faire du shopping ?
+Comment se sont passées tes dernières vacances?
+Quel est l'endroit le plus cool où vous êtes allé dîner ces derniers temps ?
+Quel est votre plat préféré à apporter à un dîner ?
+Qu'as tu fait le week-end dernier?
+Quelle application utilisez-vous au quotidien ?
+Quelle est la chose la plus bizarre dans votre frigo en ce moment ?
+Quels sont vos projets pour l'été prochain ?
+Quelle est votre chose préférée que vous avez achetée récemment ?
+Comment savoir quand quelqu’un ment ?
+Quelle est votre peur la plus irrationnelle ?
+Avez-vous déjà vraiment tenu une résolution du Nouvel An ?
+Si vous pouviez changer votre nom, en quoi le changeriez-vous ?
+En quoi votre vie serait différente si les réseaux sociaux n’existaient pas ?
+Quelle est votre activité préférée à faire pendant votre jour de congé ?
+Quel est le plus beau compliment que vous ayez jamais reçu ?
