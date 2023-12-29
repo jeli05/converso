@@ -41,6 +41,8 @@ def provide_exercise(lang, today, entry):
     lines = f.readlines()
     print(today)
     print(lines[entry])
+    with open('client/src/today.txt', 'a', encoding='utf-8') as today_file:
+        today_file.write(lines[entry])
 
 def check_date():
     today = date.today()
@@ -59,4 +61,4 @@ if __name__=="__main__":
     # determine_exercise_order(232)
     today, entry = check_date()
     provide_exercise("it", today, entry)
-    store_input(entry)
+    # store_input(entry)
