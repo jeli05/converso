@@ -15,7 +15,7 @@ app.get('*', (req, res) => {
 // PLACEHOLDER FOR SAPLING ENDPOINT
 
 const SAPLING_API_URL = 'https://api.sapling.ai';
-const API_KEY = '<api-key>';
+const API_KEY = 'AR46FO1Z1P4KMK17RZ6XVO6ZAUFPW9SG';
 
 app.post('/sapling/*', (req, res, next) => {
   // remove the '/sapling/' prefix from the request path
@@ -23,7 +23,7 @@ app.post('/sapling/*', (req, res, next) => {
   // pass request path along to Sapling
   let requestUrl = `${SAPLING_API_URL}${requestPath}`;
   // add the API Key
-  req.body.key = "AR46FO1Z1P4KMK17RZ6XVO6ZAUFPW9SG";
+  req.body.key = API_KEY;
   axios({
     url: requestUrl,
     data: req.body,

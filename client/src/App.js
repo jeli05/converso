@@ -18,6 +18,14 @@ import { useEffect } from 'react';
 // const data = await response.text();
 // console.log(data);
 
+function getDate() {
+  const today = new Date();
+  const month = today.getMonth() + 1;
+  const year = today.getFullYear();
+  const date = today.getDate();
+  return `${month}/${date}/${year}`;
+}
+
 function App() {
   useEffect(() => {
     // Sapling.init({
@@ -36,6 +44,7 @@ function App() {
   });
 
   const [textFileContent, setTextFileContent] = useState('');
+  const [currentDate] = useState(getDate());
 
   useEffect(() => {
     const fetchTextFile = async () => {
@@ -56,8 +65,9 @@ function App() {
   }, []); // Empty dependency array to run the effect once on mount
 
   return (
-    <div>
+    <div className='prompt'>
         <h1>Daily Italian Prompt</h1>
+        <h2>{currentDate}</h2>
         <p>{textFileContent}</p>
         <TextBox />
     </div>

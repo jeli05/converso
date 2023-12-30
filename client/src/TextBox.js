@@ -4,37 +4,45 @@ import React, { useState } from 'react';
 import './TextBox.css'; // Import the CSS file for styling
 
 const TextBox = () => {
-  // State to hold the value of the input
-  const [inputValue, setInputValue] = useState('');
-  // State to hold the text to be displayed when the button is clicked
-  const [displayedText, setDisplayedText] = useState('');
+    // state to make text box uneditable after submit
+  const [isEditable, setIsEditable] = useState(true);
 
-  // Event handler to update the state when the input changes
-  const handleInputChange = (event) => {
-    setInputValue(event.target.value);
-  };
+  function handleSubmit(e) {
+    // Prevent the browser from reloading the page
+    e.preventDefault();
 
-  // Event handler to update the displayed text when the button is clicked
-  const handleButtonClick = () => {
-    setDisplayedText(inputValue);
-  };
+    // Read the form data
+    const form = e.target;
+    const formData = new FormData(form);
+
+    // You can pass formData as a fetch body directly:
+    // fetch('/some-api', { method: form.method, body: formData });
+
+    // Or you can work with it as a plain object:
+    const formJson = Object.fromEntries(formData.entries());
+    console.log(formJson);
+    
+    // make text box uneditable
+    setIsEditable(false);
+  }
 
   return (
     <div className="textbox-container">
-      {/* Input element with value and onChange event */}
-      <input
-        type="text"
-        value={inputValue}
-        onChange={handleInputChange}
-        placeholder="Type something..."
-        className="custom-input"
-      />
-
-      {/* Button to display the typed text */}
-      <button onClick={handleButtonClick}>Submit</button>
-
-      {/* Display the current input value */}
-      <p>You typed: {displayedText}</p>
+        <form method="post" onSubmit={handleSubmit}>
+        <label>
+            <textarea
+            name="postContent"
+            rows={4}
+            cols={40}
+            style={{resize: "none"}}
+            placeholder='Type your response'
+            disabled={!isEditable}
+            />
+            <p>70-130 characters</p>
+        </label>
+        <hr />
+        <button type="submit">Check grammar</button>
+        </form>
     </div>
   );
 };
