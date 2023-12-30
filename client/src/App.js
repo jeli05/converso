@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 import TextBox from './TextBox';
 
 import { useEffect } from 'react';
-// import textFileContent from './today.txt';
 // import { Sapling } from "@saplingai/sapling-js/observer";
 
 // $.ajax({
@@ -14,10 +13,6 @@ import { useEffect } from 'react';
 //    // do something
 // });
 
-// const response = await fetch('http://localhost/today.txt');
-// const data = await response.text();
-// console.log(data);
-
 function getDate() {
   const today = new Date();
   const month = today.getMonth() + 1;
@@ -27,21 +22,21 @@ function getDate() {
 }
 
 function App() {
-  useEffect(() => {
-    // Sapling.init({
-    //   endpointHostname: 'http://127.0.0.1:5000',
-    //   saplingPathPrefix: '/sapling',
-    //   lang: 'it'
-    // });
+  // useEffect(() => {
+  //   Sapling.init({
+  //     endpointHostname: 'http://127.0.0.1:5000',
+  //     saplingPathPrefix: '/sapling',
+  //     lang: 'en'
+  //   });
 
-    // Original
-    // const editor = document.getElementById('editor');
-    // Sapling.observe(editor);
+  //   // Original
+  //   const editor = document.getElementById('editor');
+  //   Sapling.observe(editor);
 
-    // New to reduce API usage
-    // const editable = document.getElementById('editor');
-    // Sapling.checkOnce(editable);
-  });
+  //   // New to reduce API usage
+  //   // const editable = document.getElementById('editor');
+  //   // Sapling.checkOnce(editable);
+  // });
 
   const [textFileContent, setTextFileContent] = useState('');
   const [currentDate] = useState(getDate());
@@ -49,7 +44,7 @@ function App() {
   useEffect(() => {
     const fetchTextFile = async () => {
       try {
-        const response = await fetch('/today.txt'); //('/static/media/today.04f179f71d91cc01da24.txt');
+        const response = await fetch('/today.txt');
         if (response.ok) {
           const content = await response.text();
           setTextFileContent(content);

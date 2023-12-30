@@ -2,10 +2,20 @@
 
 import React, { useState } from 'react';
 import './TextBox.css'; // Import the CSS file for styling
+import { Sapling } from "@saplingai/sapling-js/observer";
+import { useEffect } from 'react';
 
 const TextBox = () => {
     // state to make text box uneditable after submit
   const [isEditable, setIsEditable] = useState(true);
+  
+  useEffect(() => {
+    Sapling.init({
+    endpointHostname: 'http://127.0.0.1:5000',
+    saplingPathPrefix: '/sapling',
+    lang: 'it'
+    });
+});
 
   function handleSubmit(e) {
     // Prevent the browser from reloading the page
@@ -24,6 +34,10 @@ const TextBox = () => {
     
     // make text box uneditable
     setIsEditable(false);
+
+    // use Sapling
+    const editor = document.getElementById('editor');
+    Sapling.observe(editor);
   }
 
   return (
@@ -37,11 +51,12 @@ const TextBox = () => {
             style={{resize: "none"}}
             placeholder='Type your response'
             disabled={!isEditable}
+            id="editor"
             />
             <p>70-130 characters</p>
         </label>
         <hr />
-        <button type="submit">Check grammar</button>
+        <button type="submit" disabled={!isEditable}>Check grammar</button>
         </form>
     </div>
   );
