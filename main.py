@@ -21,10 +21,15 @@ def generate_prompts(lang):
     translations = []
     with open(output_path, 'w', encoding='utf-8') as f:
         f.truncate(0)
+        prompts_length = len(prompts)
+        counter = 0
         for entry in prompts:
             translation = GoogleTranslator(source='en', target=lang).translate(entry)
             translations.append(translation)
             print(translation, file=f)
+            counter += 1
+            if counter % 10 == 0:
+                print("Translated ", counter, " of ", prompts_length)
 
     print(translations)
 
@@ -44,6 +49,12 @@ def provide_exercise(lang, today, entry):
     with open('client/src/today.txt', 'a', encoding='utf-8') as today_file:
         today_file.write(lines[entry])
 
+def write_prompts_dict(lang):
+    prompt_path = 'src/prompts/' + lang + '_prompts.txt'
+    with open(prompt_path, 'r', encoding='utf-8') as f:
+        lines = {i: line for i, line in enumerate(f, 1)}
+    return lines
+
 def check_date():
     today = date.today()
     day_of_year = datetime.now().timetuple().tm_yday  # returns 1 for January 1st
@@ -57,8 +68,9 @@ def store_input(entry):
     print(user_responses)
     
 if __name__=="__main__":
-    # generate_prompts("it")
+    generate_prompts("de")
     # determine_exercise_order(232)
-    today, entry = check_date()
-    provide_exercise("it", today, entry)
+    # today, entry = check_date()
+    # provide_exercise("it", today, entry)
+    print(write_prompts_dict("de"))
     # store_input(entry)

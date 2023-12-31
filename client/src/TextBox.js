@@ -5,6 +5,26 @@ import './TextBox.css'; // Import the CSS file for styling
 import { Sapling } from "@saplingai/sapling-js/observer";
 import { useEffect } from 'react';
 
+function getDate() {
+    const today = new Date();
+    const month = today.getMonth() + 1;
+    const year = today.getFullYear();
+    const date = today.getDate();
+    return `${month}/${date}/${year}`;
+}
+
+// append to local storage variable 
+function appendToStorage(name, data){
+    var old = localStorage.getItem(name);
+    if(old === null) old = "";
+    localStorage.setItem(name, old + data);
+}
+
+// initialize responses item in local storage
+if (localStorage.getItem('responses') === null) {
+    localStorage.setItem('responses', '');
+}
+
 const TextBox = () => {
     // state to make text box uneditable after submit
   const [isEditable, setIsEditable] = useState(true);
@@ -34,6 +54,15 @@ const TextBox = () => {
     
     // make text box uneditable
     setIsEditable(false);
+    
+    let todayDate = getDate();
+    let currentLang = localStorage.getItem('currLang');
+    let entry = {};
+    let subentry = {};
+    subentry[currentLang] = formJson;
+    entry[todayDate] = subentry;
+    console.log(entry);
+    appendToStorage('responses', JSON.stringify(entry));
 
     // use Sapling
     const editor = document.getElementById('editor');
