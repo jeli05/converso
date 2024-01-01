@@ -26,6 +26,11 @@ if (localStorage.getItem('my_responses') === null) {
 const TextBox = () => {
     // state to make text box uneditable after submit
   const [isEditable, setIsEditable] = useState(true);
+  const [userInput, setUserInput] = useState('');
+
+  const handleInputChange = (event) => {
+    setUserInput(event.target.value);
+  };
   
   useEffect(() => {
     Sapling.init({
@@ -33,7 +38,10 @@ const TextBox = () => {
     saplingPathPrefix: '/sapling',
     lang: JSON.parse(localStorage.getItem("currLang")), // change to selected language
     });
-});
+  });
+
+  const isInputValid = userInput.length >= 70 && userInput.length <= 130; // set length constraints
+  let disableSubmit = (!isInputValid || !isEditable) ? true : false; // disable submit if not meeting length constraints or response submitted
 
   function handleSubmit(e) {
     // Prevent the browser from reloading the page
@@ -72,20 +80,27 @@ const TextBox = () => {
   return (
     <div className="textbox-container">
         <form method="post" onSubmit={handleSubmit}>
+        <div style={{ position: 'relative' }}>
         <label>
             <textarea
             name="postContent"
+            value={userInput}
+            onChange={handleInputChange}
             rows={4}
-            cols={40}
-            style={{resize: "none"}}
+            cols={60}
+            style={{resize: "none", borderRadius: "8px", marginBottom: '20px'}}
             placeholder='Type your response'
             disabled={!isEditable}
             id="editor"
             />
+            <div className="char-display" style={{ color: isInputValid ? 'black' : 'red'}}>
+                {userInput.length}
+            </div>
             <p>70-130 characters</p>
         </label>
+        </div>
         <hr />
-        <button type="submit" disabled={!isEditable}>Check grammar</button>
+        <button type="submit" disabled={disableSubmit}>Check grammar</button>
         </form>
     </div>
   );

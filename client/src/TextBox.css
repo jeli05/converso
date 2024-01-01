@@ -7,6 +7,18 @@
     justify-content: center;
 }
 
+textarea, input, button, select { 
+    font-family: inherit; 
+    font-size: inherit; 
+}
+
 textarea:focus::placeholder {
     color: transparent;
+}
+
+.char-display {
+    position: absolute;
+    bottom: 62px;
+    right: 5px;
+    font-size: 14px;
 }
