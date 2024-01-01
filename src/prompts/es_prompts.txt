@@ -1,232 +1,368 @@
-Cuéntame sobre ti.
-¿Has hecho algo interesante últimamente?
-¿Qué te hizo sonreír hoy?
-¿Cuál es tu forma favorita de redes sociales?
-¿Cuál fue el último buen libro que leíste?
-¿Escuchas algún podcast? ¿Cuál es tu favorito?
-¿Cuál crees que es el mejor programa de Netflix en este momento?
-¿Has realizado algún viaje interesante últimamente?
-¿Cuál crees que ha sido la mejor película del año hasta ahora?
-¿Qué canción te gustaría poder poner ahora mismo?
-¿Eres un amante de los gatos o de los perros?
-¿Crees que eres introvertido o extrovertido?
-Si no tuvieras el trabajo que tienes ahora, ¿qué serías?
-¿Cuál es tu talento oculto más extraño?
-¿Qué es algo que la gente siempre se sorprende al saber sobre ti?
-¿Cuál es la parte más gratificante de tu carrera?
-¿Dónde quieres estar dentro de cinco años?
-¿Qué superpoder te gustaría tener?
-¿A dónde irías de vacaciones si no tuvieras presupuesto?
-Si pudieras viajar en el tiempo, ¿en qué década elegirías vivir?
-¿Qué es lo mejor que has comprado en Amazon?
-¿Cuál fue el último concierto al que fuiste?
-¿Qué es algo sin lo que no puedes vivir?
-¿Cuál es el sueño más extraño que has tenido recientemente?
-¿Cuál es tu libro favorito de todos los tiempos?
-¿En cuántos países has estado?
-¿Cuál es tu ciudad favorita que has visitado?
-¿Prefieres viajar en avión o en barco?
-¿Preferirías tener mucho calor o mucho frío?
-¿Te gustan los documentales? ¿Has visto alguno bueno recientemente?
-¿Quién es tu pareja de celebridades favorita?
-¿Qué pareja de famosos te gustaría que volvieran a estar juntos?
-Si pudieras presentar un programa de entrevistas, ¿a quién incluirías primero?
-¿Cuál es tu deporte favorito?
-¿En qué deporte te gustaría ser realmente bueno?
-¿Cómo pasaste tu último cumpleaños?
-¿Qué estás leyendo ahora mismo?
-¿Cuál es su restaurante favorito?
-¿Cuál es el próximo evento emocionante que tienes por delante?
-¿Cuáles son tus planes para este fin de semana?
-¿Tiene mascotas?
-¿Qué hay de interesante sobre ti que nadie sabe realmente?
-¿A qué te dedicas?
-Si pudieras mudarte a cualquier parte, ¿adónde irías?
-¿Cuál fue la última película que viste?
-¿Qué haces normalmente para divertirte?
-¿Para qué pasatiempo te gustaría tener más tiempo?
-¿Cual es tu día festivo favorito?
-¿Tienes algún apodo?
-cual es la cosa que mas te molesta?
-¿Cuál es tu programa de televisión de placer culpable favorito?
-Cuéntame tres datos curiosos sobre ti.
-¿Has estado aqui antes?
-¿Qué es lo mejor de tu trabajo?
-¿Dónde creciste?
-¿Te gusta cocinar?
-¿En qué pasatiempo te gustaría ser bueno?
-¿Qué canción se te ha quedado grabada en la cabeza esta semana?
-¿Cuáles son sus metas a largo plazo?
-¿Quien es tu modelo a seguir?
-¿Qué querías ser cuando eras niño?
-¿Cuál es tu mayor arrepentimiento en la vida?
-¿Cuáles son las tres cosas principales en tu lista de deseos?
-¿Cuál ha sido tu mayor logro hasta ahora?
-¿Qué es lo que desearías poder hacer y sabes que probablemente nunca lo harás?
-¿A que temes más?
-¿Cuál es el mayor riesgo que has corrido?
-Cuéntame cuál es el consejo que más te cambiará la vida que hayas escuchado.
-¿Cuándo eres más feliz?
-¿Qué es lo que siempre te calma cuando estás realmente estresado y molesto?
-¿Quién en tu vida ha tenido más influencia sobre ti?
-¿Qué es lo más difícil que has hecho?
-¿Qué es lo que más te asusta del futuro?
-¿Cómo han cambiado sus prioridades en los últimos 10 años?
-¿Qué es lo más lindo que alguien haya hecho por ti?
-Describe tu fin de semana perfecto.
-¿Cuál es la opinión más controvertida que tienes?
-Si pudieras cambiar algo de tu personalidad, ¿qué sería?
-¿Qué sería lo primero que harías si te tocara la lotería?
-Si pudieras invitar a cenar a un personaje famoso, ¿quién sería?
-¿A quién extrañas más de tu pasado?
-Si pudieras retroceder en el tiempo, ¿cuál sería una situación en la que harías diferente?
-¿Quién es la persona más importante en tu vida en este momento?
-¿Qué pensabas que estarías haciendo a esta edad cuando eras niño?
-¿Crees que las redes sociales están destruyendo nuestra comunicación?
-¿Sin qué pieza de tecnología podrías vivir?
-¿Cómo crees que será el mundo dentro de 20 años?
-¿En qué has fallado recientemente?
-¿Qué te hizo elegir esta como tu carrera?
-¿Qué es lo más interesante en lo que has trabajado últimamente?
-¿Qué te gusta más de tu trabajo?
-¿Cuál fue su primer trabajo?
-¿Cuánto tiempo lleva en su trabajo actual?
-¿Por qué crees que te contrataron?
-¿Qué es lo más frustrante de tu trabajo?
-¿Cuáles son tus objetivos a la hora de trabajar?
-¿Qué te inspira en el trabajo cada día?
-Si pudieras cambiar algo de esta industria, ¿qué sería?
-¿Quién ha sido su modelo a seguir en su carrera?
-¿Qué es lo más interesante que has aprendido en el trabajo?
-¿Viajas alguna vez por tu trabajo? ¿Dónde has ido?
-¿Cómo te mantienes organizado todos los días?
-¿Cuántos correos electrónicos has estado evitando responder esta semana?
-¿Qué crees que hace que alguien sea un gran gerente?
-¿Cuál es el mayor desafío que has asumido este año?
-¿Cuál es tu proyecto favorito en el que has trabajado hasta ahora?
-¿Qué es lo que le resulta más beneficioso de los eventos de networking?
-¿Alguna vez cantas en la ducha?
-¿Cuál es el peor consejo que te han dado?
-¿Qué es lo más vergonzoso que te ha pasado recientemente?
-¿Cuál es tu escándalo de celebridades favorito en este momento?
-¿Qué es lo peor que has usado?
-Si pudieras hacer algo ilegal sin meterte en problemas, ¿qué sería?
-¿Cuál es el chiste más estúpido que jamás hayas escuchado?
-¿Cuándo fue la última vez que reíste tanto que lloraste?
-¿Cuál es la mejor broma que le has hecho a alguien?
-¿Cuál crees que es la película más divertida de la historia?
-¿Qué es lo que siempre te hace reír, incluso cuando estás molesto?
-¿Quién es tu comediante favorito?
-¿Qué extraña teoría de la conspiración crees?
-¿Un hot dog es un sándwich?
-¿Qué celebridad te interpretaría en una película sobre tu vida?
-¿Qué es lo más raro que amabas cuando eras niño?
-¿Qué es algo que es realmente popular ahora y que será ridículo dentro de cinco años?
-¿Cuál es la peor tendencia en la que has participado?
-¿Cuál es tu broma habitual?
-¿A dónde vas a la escuela?
-¿Cuál es tu materia/clase favorita?
-¿Quién es tu maestro favorito?
-¿Por qué esa persona es tu profesor favorito?
-¿Qué materia desearías no haber tenido que tomar nunca?
-¿Cuál fue la última tarea en la que hiciste realmente bien?
-¿Quién es tu mejor amigo en tu grado?
-¿Cuál es tu outfit favorito para ir a la escuela?
-¿Crees en los alienígenas?
-Si pudieras ser cualquier animal, ¿cuál sería?
-Que quieres ser cuando seas grande?
-¿Tienes hermanos o hermanas?
-¿Qué es lo que más amas de tu mamá y tu papá?
-¿Dónde desearías estar ahora?
-¿Cuál es tu canción favorita?
-¿Quién es tu personaje de dibujos animados favorito?
-¿Tienes un personaje favorito de Disney?
-Si pudieras cambiar algo de la escuela, ¿qué sería?
+¿A qué país te gustaría viajar? ¿Por qué?
+Quien es tu artista favorito? (músico, pintor, actor...)
+¿Te gusta escribir postales durante tus vacaciones? ¿Por qué?
+¿Qué no te gusta cocinar? ¿Por qué?
+¿Prefieres ver películas o programas de televisión? ¿Por qué?
+¿A qué tipo de tiendas odias ir? ¿Por qué?
+¿Te gusta celebrar tu cumpleaños? ¿Por qué?
+¿Te gustaría viajar en el espacio? ¿Por qué?
+¿Prefieres alojarte en un hotel o acampar? ¿Por qué?
+En verano ¿qué actividades hacer?
+¿Qué animal te gusta? ¿Por qué?
+Completa la frase: Es fácil...
+¿Qué lugar extraordinario te gustaría visitar? ¿Por qué?
+¿Te gusta andar en bicicleta? ¿Por qué?
+¿Prefieres vivir en un pequeño apartamento en una ciudad o en una casa grande en un pueblo pequeño?
+Imagina el trabajo ideal.
+¿Qué mal hábito te gustaría cambiar? ¿Por qué?
+¿Te gusta leer libros? ¿Por qué?
+Completa la frase: Hoy voy a...
+¿Qué mes del año prefieres? ¿Por qué?
+¿Te gustaría visitar el Polo Norte? ¿Por qué?
+¿Qué actividades realizas en el invierno?
+¿Te gustaría hacer yoga? ¿Por qué?
+¿Te gusta escribir (cartas, libros, correos electrónicos...)? ¿Por qué?
+Describe a tu amigo ideal.
+¿Te gusta la tecnología? ¿Por qué?
+Completa la frase, El año que viene voy a...
+¿Tocas un instrumento musical? Explicar.
+¿Cuál es su serie de televisión favorita? ¿Por qué?
+¿Te gustaría participar en una competición deportiva? ¿Por qué?
+¿Te gusta hacer actividades con tus vecinos? ¿Por qué?
+¿Te gustaría ir al desierto del Sahara? ¿Por qué?
+¿Qué haces todos los viernes por la noche? ¿Por qué?
+¿Te gusta viajar en tren? ¿Por qué?
+¿Te gusta ir al bosque? ¿Por qué?
+¿Qué deporte te gustaría practicar en el futuro? ¿Por qué?
+Completa la frase: Gatos...
+¿Te gustaría ir a Francia? ¿Por qué?
+¿Para ti cuál es el clima perfecto? ¿Por qué?
+¿Te gusta aprender? ¿Por qué?
+¿Qué no te gusta comer o beber en el desayuno? ¿Por qué?
+¿Te gustaría correr un maratón? ¿Por qué?
+¿Qué haces todos los lunes por la mañana?
+¿Como esta el tiempo hoy?
+En el futuro, ¿qué objeto vas a comprar? ¿Por qué?
+¿Te gustaría participar en la creación de una película? ¿Por qué?
+¿Te gusta la aventura? ¿Por qué?
+¿Te gustaría visitar alguna pirámide? ¿Por qué?
+¿Te gusta comer pastel? ¿Por qué?
+¿Eres un artista? ¿Por qué?
+Completa la frase: Perros...
+¿Te gusta levantarte temprano por la mañana? ¿Por qué?
+¿Te gusta ir a conciertos? ¿Por qué?
+Completa la frase: La televisión es...
+¿Te gustaría ser astronauta? ¿Por qué?
+Completa la frase: Hoy tengo...
+Describe el lugar de donde provienes.
+¿Te gustaría visitar un espacio natural como Ayers Rock en Australia? ¿Por qué?
+¿Te gusta ir al supermercado? ¿Por qué?
+¿Te gustaría comer en un restaurante gourmet? ¿Por qué?
+¿Cuáles son para usted las cualidades de un buen profesor? ¿Por qué?
+¿Te gusta levantarte tarde los fines de semana? ¿Por qué?
+¿Te gustaría ser piloto? ¿Por qué?
+¿Te gustaría caminar 6 horas por la montaña? ¿Por qué?
+Completa la frase: Hoy estoy...
+¿Qué vas a almorzar hoy?
+¿Qué vas a hacer esta noche a las 7 p.m.?
+¿Prefieres el autobús o el metro? ¿Por qué?
+¿Te gustaría aprender a tocar el piano? ¿Por qué?
+¿Qué palabra odias? ¿Por qué?
+¿Qué idioma (chino, inglés, ruso...) te gustaría hablar? ¿Por qué?
+¿Qué odias? ¿Por qué?
+¿Te gustaría dormir en un iglú? ¿Por qué?
+¿Qué compras siempre cuando vas al supermercado? ¿Por qué?
+¿Te gustaría visitar el Gran Cañón? ¿Por qué?
+¿Prefieres tener un patio o un balcón? ¿Por qué?
+¿Te gustaría ser periodista? ¿Por qué?
+Describe la apariencia física de un miembro de tu familia.
+¿Te gusta tu casa o tu apartamento? ¿Por qué?
+Dentro de 100 años, ¿cómo viajaremos?
+¿Te gusta jugar baloncesto? ¿Por qué?
+¿Te gustaría aprender a cocinar con un chef? ¿Por qué?
+¿Te gusta ir al teatro? ¿Por qué?
+¿Qué te gusta en el trabajo o en la escuela? ¿Por qué?
+En casa, ¿qué actividad no te gusta hacer? ¿Por qué?
+¿Te gustaría visitar el Taj Mahal? ¿Por qué?
+Completa la frase: Mi teléfono...
+¿Qué actividades te gusta hacer con tus amigos el fin de semana? ¿Por qué?
+¿Cómo es el transporte público en tu ciudad?
+¿Estás viendo los Juegos Olímpicos? ¿Por qué?
 ¿Te gusta nadar?
-¿Cuál es tu juego favorito para jugar?
-¿Cuál es tu color favorito?
-¿Qué comida odias?
-¿Cuál es tu juguete favorito para jugar?
-¿Qué vas a hacer mañana?
-¿A qué le temes?
-¿Has estado aqui antes?
-¿Qué es lo que siempre te hace reír?
-¿Qué es lo más importante que debo saber sobre ti?
-¿Cuál es la peor cita en la que has estado?
-¿Cómo te hiciste cercano a tu mejor amigo?
-¿Cuál es tu película favorita que podrías ver una y otra vez?
-¿Cuál ha sido siempre el trabajo de tus sueños?
-Si pudieras salir con una celebridad, ¿quién sería?
-¿Eres un gastador o un ahorrador?
-Que es lo que mas te gusta de tu trabajo?
-¿Cuál crees que es tu peculiaridad más molesta?
-¿Cuál es el mensaje de texto más extraño que has recibido?
-¿Qué es lo que más odias de las citas?
-¿Cuál es tu lugar favorito en el mundo?
-¿Cuáles han sido las mejores vacaciones en las que has estado?
-¿Qué tan cerca estás de tu familia?
-¿Prefieres quedarte en casa o salir?
-¿A dónde fuiste a la escuela?
-¿Has vivido alguna vez en otro lugar?
-¿En qué eres bueno y de lo que estás realmente orgulloso?
-¿Cuál es tu talento secreto?
-¿Cuál crees que es el hábito más molesto?
-Cuéntame algo en tu lista de deseos.
-¿Qué es lo que más no te gusta de tu trabajo?
-¿Qué es lo que más te apasiona?
-¿Te gusta más llamar o enviar mensajes de texto?
-¿Cuáles son tus pensamientos honestos sobre las redes sociales?
-¿Qué buscas en una relación?
-¿Escuchaste sobre (una gran noticia)?
-¿Qué es lo que te hizo reír esta semana?
-¿Cuál es tu comida favorita?
-¿Qué es lo peor que has comido?
-¿Qué película estás realmente emocionado de ver?
-¿Como gastas tu tiempo libre?
-¿Eres una persona mañanera o un noctámbulo?
-¿Qué estás bebiendo?
-¿Qué bebida debo pedir a continuación?
-¿Has estado aqui antes?
-¿Cuál es tu barra favorita?
-¿Qué es lo que más te gusta comer aquí?
-¿Te gusta esta canción?
-Si pudieras hacer que tocaran cualquier canción ahora mismo, ¿cuál sería?
-¿Cuál es tu lugar favorito para pasar el rato por aquí?
-¿Te estás divirtiendo?
-¿Con quién estás aquí?
-¿Dónde preferirías estar ahora?
-¿Qué canción te harías bailar en este mismo momento?
-¿Cómo consigues siempre llamar la atención de un barman?
-¿Bailarías alguna vez encima de esta barra?
-¿Alguna vez has hecho karaoke?
-Me gusta tu camisa, ¿de dónde sacaste esa?
-¿Cómo sabes los amigos con los que estás aquí?
-¿Conoces a fulano de tal?
-¿Qué te hizo reír hoy?
-Si sólo pudieras comer un alimento por el resto de tu vida, ¿cuál sería?
-¿Cuál es tu mejor consejo para ahorrar dinero?
-¿Cuál es tu cita favorita en este momento?
-¿Has hablado con fulano de tal últimamente?
-¿Qué has estado haciendo desde la última vez que te vi?
-¿Ha cambiado algo importante en el trabajo?
-¿Cómo están tus padres?
-¿Qué te ha gustado en la televisión últimamente?
-¿Cuál es tu mejor consejo para una rutina de buenos días?
-¿Cuál es tu mejor consejo de cocina?
-¿Qué es lo más raro que has visto en Facebook recientemente?
-¿Cuál es tu lugar favorito para comprar?
-¿Como estuvieron tus ultimas vacaciones?
-¿Cuál es el mejor lugar al que has ido a cenar últimamente?
-¿Cuál es tu plato favorito para llevar a una cena?
-¿Qué hiciste el fin de semana?
-¿Qué aplicación usas todos los días?
-¿Qué es lo más raro que tienes ahora mismo en tu nevera?
-¿Cuáles son tus planes para el próximo verano?
-¿Cuál es tu cosa favorita que has comprado recientemente?
-¿Cómo saber cuando alguien miente?
-¿Cuál es tu miedo más irracional?
-¿Alguna vez has cumplido realmente una resolución de Año Nuevo?
-Si pudieras cambiar tu nombre, ¿a cuál lo cambiarías?
-¿Cómo sería diferente tu vida si las redes sociales no existieran?
-¿Qué es lo que más te gusta hacer en tu día libre en el trabajo?
-¿Cuál es el mejor cumplido que has recibido?
+¿Qué tecnología no te gusta? ¿Por qué?
+¿Quieres ir a la Ópera? ¿Por qué?
+¿Prefieres trabajar o estudiar?
+¿Qué vas a cocinar esta noche? ¿Por qué?
+¿Te gustaría tener un Ferrari? ¿Por qué?
+Mira tu teléfono. Elige una foto y explica por qué te gusta.
+¿Qué persona te inspira? ¿Por qué?
+Describe un hábito familiar que te guste mucho.
+Completa la frase: El domingo...
+Qué libro estás leyendo en este momento? ¿Por qué?
+¿Te gustaría ser profesor? ¿Por qué?
+¿Te gustan las sorpresas? ¿Por qué?
+¿Te gusta dibujar? ¿Por qué?
+¿Prefieres platos dulces o salados? ¿Por qué?
+¿Cuál es tu técnica antiestrés?
+Completa la frase: Viajando...
+¿Quién es tu superhéroe favorito? ¿Por qué?
+¿Le gustaría quedarse en casa para ir al trabajo o a la escuela? Explicar.
+¿Te gustaría ir a ver volcanes? ¿Por qué?
+¿Te gusta bailar? ¿Por qué?
+¿Prefieres gatos o perros? ¿Por qué?
+¿Te gustaría volar en helicóptero? ¿Por qué?
+¿Te gustaría ser arqueólogo? ¿Por qué?
+¿Qué compras a menudo? ¿Por qué?
+¿Qué actividades te gustaría hacer a tus 75 años? ¿Por qué?
+Describe a tu vecino favorito.
+Completa la frase Un día...
+¿Cuál es tu próximo objetivo? ¿Por qué?
+¿Eres una persona creativa? Explicar.
+¿Estudias algún otro idioma? ¿Por qué?
+¿Te gustaría visitar Isla de Pascua? ¿Por qué?
+En casa ¿quién cocina? ¿Por qué?
+¿Qué deben aprender los niños en la escuela? ¿Por qué?
+¿Tiene alguna fobia? Explicar.
+¿Dónde te gustaría vivir dentro de 5 años? ¿Por qué?
+¿Eres una persona paciente? Explicar.
+¿Prefieres comer rápido o tomarte tu tiempo? Explicar.
+Completa la frase: Trabaja...
+¿Cuál es la mejor época del año para visitar tu ciudad? ¿Por qué?
+En verano, ¿qué no te gusta beber o comer? ¿Por qué no?
+¿Cuál es tu criatura imaginaria favorita? ¿Por qué?
+¿Cuáles son sus puntos fuertes? Explicar.
+Termina la frase: Mis vacaciones...
+Mira a tu alrededor. ¿Qué objetos ves? ¿Por qué están ellos ahí?
+¿Por qué vives en tu pueblo o ciudad ahora mismo?
+¿Te gusta organizar eventos? ¿Por qué?
+¿Te gusta trabajar con otras personas? ¿Por qué?
+¿Eres una persona tímida? ¿Por qué?
+¿Te gustaría vivir en una granja? ¿Por qué?
+Elige uno o dos objetos que tengas siempre contigo. Explicar por qué.
+¿A qué hora de la noche te gusta comer? ¿Por qué?
+¿Te gusta cantar? ¿Por qué?
+¿Cuál es tu desayuno favorito? ¿Por qué?
+¿A qué misterio te gustaría encontrar una respuesta? ¿Por qué?
+¿Te gustaría conducir una motocicleta? ¿Por qué?
+Completa la oración Escuela...
+En tu trabajo o en tus estudios, ¿qué te gustaría cambiar? ¿Por qué?
+¿Qué mal hábito odias en otras personas?
+¿Coleccionas alguna cosa? Explicar.
+¿Le gustaría irse de vacaciones con su manager o su jefe? ¿Por qué?
+¿Dónde te gusta comer (en la mesa, frente al televisor...)? ¿Por qué?
+¿Qué te gusta hacer cuando llueve? ¿Por qué?
+¿Qué lugar imaginario te gustaría visitar? ¿Por qué?
+¿Te gustan las comedias románticas? ¿Por qué?
+¿Cuál es tu palabra favorita? ¿Por qué?
+¿Te gustaría esquiar? ¿Por qué?
+¿Qué regalo te gustaría recibir por tu cumpleaños? ¿Por qué?
+¿Cuáles son las cualidades de un buen administrador o de un buen director de escuela? ¿Por qué?
+Termina la frase: Música...
+¿Para ti qué es peligroso? Explicar.
+¿Te gustan los tatuajes? ¿Por qué?
+¿Qué haces muy bien? Explicar.
+¿Cómo te gusta terminar tu día? ¿Por qué?
+¿Para ti qué objeto no es necesario? ¿Por qué?
+Termina la frase: Este otoño...
+En 2022, ¿a qué concierto te gustaría ir?
+¿Qué es muy positivo para ti? ¿Por qué?
+¿Qué personaje histórico te gustaría ser? ¿Por qué?
+¿Te gustan las películas de aventuras? ¿Por qué?
+¿Te gustaría hacer un crucero por el Caribe? ¿Por qué?
+¿Qué libro no te gusta? ¿Por qué?
+¿Qué es lo que realmente no puedes hacer? Explicar.
+Habla sobre una fecha importante para ti.
+¿Prefieres tener frío o calor? ¿Por qué?
+¿Qué novedad vas a hacer la próxima semana? Explicar.
+¿Qué película no te gusta? ¿Por qué?
+¿Qué objeto comprarás en el futuro para tu casa o apartamento? ¿Por qué?
+¿Cómo prefieres empezar tu día? ¿Por qué?
+¿Qué planeta te gustaría visitar? ¿Por qué?
+¿Qué no comes en la cena? ¿Por qué?
+¿Te gustaría cultivar frutas o verduras? ¿Por qué?
+¿Qué te gusta hacer en el campo? ¿Por qué?
+¿Qué es lo que más te interesa? Explicar.
+Termina la frase: El martes...
+¿Qué deportes no te gustan? ¿Por qué?
+¿Para ti es importante trabajar? ¿Por qué?
+¿Te gustaría irte de vacaciones a España? ¿Por qué?
+¿Eres una persona divertida? ¿Por qué?
+¿Qué nunca haces? ¿Por qué?
+¿Eres más productivo por la noche o por la mañana? ¿Por qué?
+¿Qué compras más que otras personas? ¿Por qué?
+¿Qué harás dentro de 10 años? Explicar.
+¿Qué medio de transporte utiliza para ir al trabajo o para ir a la escuela? ¿Por qué?
+¿Tienes una mascota? Explicar.
+Termina la frase: Amigo mío...
+¿Prefieres viajar a países fríos o cálidos? ¿Por qué?
+Describe un plato que no te guste.
+¿Te gustaría hacer un largo viaje en bicicleta? ¿Por qué o por qué no?
+¿Para ti qué es gracioso? Explicar.
+¿Te gusta comer verduras? ¿Por qué o por qué no?
+¿Te gusta el queso? Explicar.
+¿Te gustaría hacer un safari en África? ¿Por qué?
+¿Eres alguien que siempre llega a tiempo? Explicar.
+¿Te gusta ir a fiestas? ¿Por qué?
+¿Te gusta tener plantas en casa? ¿Por qué?
+¿Te gustaría tener un coche eléctrico? ¿Por qué?
+¿Qué haces siempre? ¿Por qué?
+Para ti ¿qué es el arte? Explicar.
+¿Te gusta ir de camping? ¿Por qué?
+Inventa una oración usando la palabra casa.
+¿Qué no sabes hacer? Explicar.
+¿Te gusta tener proyectos? ¿Por qué?
+¿Eres una persona romántica? Explicar.
+¿Qué talento te gustaría tener? ¿Por qué?
+¿Qué te gustaría cambiar en tu apartamento o en tu casa? ¿Por qué?
+Describe dónde estás y qué estás haciendo.
+¿Te gusta celebrar la fiesta nacional de tu país? ¿Por qué?
+¿Por la mañana te fijas en la previsión del tiempo para elegir tu ropa? ¿Por qué?
+¿Qué nunca comes? ¿Por qué?
+¿Lees tu horóscopo? ¿Por qué?
+Imagina el título de tu autobiografía. Explica tu elección.
+¿Qué programa de televisión crees que puedes ganar? ¿Por qué?
+¿Te gusta ir a bodas? ¿Por qué o por qué no?
+¿Te gusta comer en restaurantes de comida rápida? ¿Por qué?
+¿Piensas a menudo en el pasado? ¿Por qué?
+Escribe una oración usando la palabra escuela.
+¿Ves los Oscar? ¿Por qué?
+¿Qué objeto olvidas a menudo en casa? ¿Por qué?
+¿Qué te gusta comer en invierno? ¿Por qué?
+¿Qué es fácil para ti? Explicar.
+En la naturaleza, ¿qué te parece sorprendente? ¿Por qué?
+¿En qué te gustaría ser mejor? ¿Por qué?
+¿Qué harás en tus próximas vacaciones?
+¿Qué mascota no quieres tener? ¿Por qué?
+¿Qué puedes hacer que no sea muy útil? Explicar.
+¿Qué es siempre divertido para ti en Internet? ¿Por qué?
+¿Te gusta reparar cosas? ¿Por qué?
+¿Quién es la persona más divertida de tu familia? Explicar.
+¿Qué no te gusta pagar? ¿Por qué?
+¿Quién es tu héroe? ¿Por qué?
+¿Qué regalo no quieres recibir? ¿Por qué?
+¿Te gusta hacer karaoke? ¿Por qué?
+Elige una persona y hazle un cumplido.
+¿Vas a celebrar el Año Nuevo? Explicar.
+¿Cuáles son tus planes para el año 2022? Explicar.
+¿Para ti qué es la felicidad? Explicar.
+¿Eres una persona valiente? ¿Por qué?
+¿Crees en las coincidencias? ¿Por qué?
+¿Te gustaría realizar un viaje organizado por una agencia? ¿Por qué?
+¿Qué te gustaría cambiar en el mundo? ¿Por qué?
+Tienes 1 millón de euros. Qué haces con eso? Explicar.
+¿Cuál es tu primera acción al llegar al trabajo o a la escuela? Explicar.
+¿Cual es tu lugar favorito? ¿Por qué?
+¿Te gustaría vivir en otro país? ¿Por qué o por qué no?
+¿Qué quieres aprender este año? ¿Por qué?
+¿Cuál es tu sueño? Explicar.
+¿Cómo imaginas el mundo en 2060? Explicar.
+¿Eres una persona enérgica? Explicar.
+¿Te gusta cocinar? ¿Por qué o por qué no?
+¿Qué serie estás viendo ahora mismo? ¿Por qué?
+¿Te gustaría crear un negocio? ¿Por qué o por qué no?
+¿Qué persona te irrita? ¿Por qué?
+¿Te gusta cambiar la decoración de tu hogar? ¿Por qué o por qué no?
+¿Ves vídeos de animales en Internet? ¿Por qué o por qué no?
+¿Trabajas mucho? Explicar.
+¿En qué ciudad te gustaría vivir? ¿Por qué?
+¿Te gusta pescar? ¿Por qué o por qué no?
+¿Te gusta hablar en público? ¿Por qué o por qué no?
+¿Te gusta conducir un coche?
+¿Cuál es el mayor atributo de tu mejor amigo? Explicar.
+¿Cuál es tu instrumento musical favorito? ¿Por qué?
+¿Qué película te gustaría ir a ver al cine? ¿Por qué?
+Describe la composición de tu pizza favorita.
+¿Dónde te gusta salir los fines de semana? ¿Por qué?
+¿Sabes como bailar? Explicar.
+Describe un día ideal para ti.
+¿Qué vas a comprar la próxima semana? ¿Por qué?
+¿Cual es tu día festivo favorito?
+¿Que estás esperando? ¿Por qué?
+¿Cuál es tu animal favorito? ¿Por qué?
+¿Qué artículo llevas siempre contigo al trabajo o a la escuela? ¿Por qué?
+¿Qué viaje vas a hacer pronto? ¿Por qué?
+Ahora mismo, ¿dónde te gustaría estar? ¿Por qué?
+¿Qué vas a hacer cuando te jubiles? Explicar.
+¿Prefieres leer un libro o hacer deporte? ¿Por qué?
+¿De qué tema puedes hablar durante mucho tiempo? ¿Por qué?
+¿Qué haces cuando no estás en el trabajo o la escuela? ¿Por qué?
+¿Celebras el día de San Valentín? ¿Por qué o por qué no?
+¿Te gusta ver competiciones deportivas? ¿Por qué o por qué no?
+¿Qué compras cada semana? ¿Por qué?
+¿Qué es lo que más te gusta de tu ciudad? ¿Por qué?
+¿Te gusta ir de vacaciones con tu familia? ¿Por qué o por qué no?
+¿Para ti cuál es el trabajo ideal? ¿Por qué?
+¿Qué es lo que nunca quieres aprender a hacer? ¿Por qué no?
+¿Te gustaría conducir un coche deportivo? ¿Por qué o por qué no?
+¿Qué vas a cambiar pronto en tu casa o apartamento? ¿Por qué?
+¿Te gustaría irte de vacaciones con tu mejor amigo? ¿Por qué o por qué no?
+¿Te gusta la historia? ¿Por qué o por qué no?
+Eres el presidente de tu país. ¿A qué te dedicas? Por favor explique.
+¿Qué vas a hacer mañana en el trabajo o en la escuela? Por favor explique.
+No hay suficientes deportes en la televisión. ¿Estás de acuerdo con esta frase? ¿Por qué o por qué no?
+Elige una palabra para describir tu ciudad y explica por qué.
+¿Qué medio de transporte utilizas? ¿Por qué?
+¿Juegas video juegos? ¿Por qué o por qué no?
+El arte siempre debe ser hermoso. ¿Verdadero o falso? ¿Por qué?
+Está nevando. ¿Qué actividades haces?
+¿Te gustaría ir a las Bahamas? ¿Por qué?
+Vas a Marte. ¿Qué actividades haces?
+¿En vacaciones prefieres realizar actividades con tu familia o con tus amigos?
+¿Te gusta visitar museos? ¿Por qué?
+¿Te gustaría viajar al futuro o al pasado? ¿Por qué?
+¿Cuál es tu estación favorita? ¿Por qué?
+¿Qué actividades te gusta hacer? ¿Por qué?
+Completa la frase: Mañana voy a...
+¿Qué trabajo no quieres hacer? ¿Por qué?
+¿Qué personaje histórico te gusta? ¿Por qué?
+¿Te gusta leer el periódico? ¿Por qué?
+¿Prefieres irte de vacaciones a la playa, a la montaña o a otro lugar? ¿Por qué?
+¿A qué amigo o miembro de tu familia admiras? ¿Por qué?
+¿Preferirías vivir en una gran ciudad o en un pueblo? ¿Por qué?
+¿Cuál es tu género de película favorito?
+¿Cuál es tu rutina nocturna?
+¿Es la música importante para ti? ¿Por qué o por qué no?
+Completa la frase: En 2067, podremos...
+¿Te gusta viajar? ¿Por qué?
+¿Cuáles son tus buenos hábitos?
+En tu ciudad, ¿qué lugar odias?
+¿Te gustaría ser famoso? ¿Por qué?
+¿En el futuro qué actividad te gustaría realizar?
+Si pudieras cenar con algún personaje de ficción, ¿quién sería y por qué?
+¿Cuál es tu recuerdo favorito de la infancia y por qué te llama la atención?
+¿Eres una persona mañanera o un noctámbulo? ¿Por qué?
+Si pudieras tener cualquier animal como mascota, ¿cuál sería y por qué?
+¿Cuál es tu comida reconfortante preferida y por qué te brinda consuelo?
+Si pudieras aprender alguna habilidad al instante, ¿cuál sería y por qué?
+¿Te gusta asistir a actuaciones en vivo (conciertos, obras de teatro, etc.)? ¿Por qué o por qué no?
+Si pudieras conocer a algún personaje histórico, ¿quién sería y qué le preguntarías?
+¿Qué tipo de cocina disfrutas más? ¿Por qué?
+¿Eres fanático de los rompecabezas o acertijos? ¿Por qué o por qué no?
+Si pudieras visitar algún acontecimiento histórico, ¿cuál sería y por qué?
+¿Cuál es tu forma favorita de relajarte después de un largo día?
+Si pudieras tener un superpoder, ¿cuál sería y cómo lo usarías?
+¿Crees en la suerte o el destino? ¿Por qué o por qué no?
+¿Eres más introvertido o extrovertido? ¿Por qué?
+Si pudieras tener cualquier trabajo por un día, ¿cuál sería y por qué?
+¿Te gusta la jardinería? ¿Por qué o por qué no?
+Si pudieras hablar algún idioma con fluidez, ¿cuál sería y por qué?
+¿Eres fanático de los juegos de mesa o de los videojuegos? ¿Por qué?
+Si pudieras presenciar algún fenómeno natural, ¿cuál sería y por qué?
+¿Cuál es tu forma favorita de mantenerte activo y por qué la disfrutas?
+Si pudieras tener una conversación con cualquier personaje de ficción, ¿quién sería y por qué?
+¿Te gusta cocinar para los demás? ¿Por qué o por qué no?
+Si pudieras tener un objeto mágico, como la varita de Harry Potter o la lámpara de Aladino, ¿cuál sería y por qué?
+¿Cuál es tu tipo de clima favorito y cómo afecta tu estado de ánimo?
+Si pudieras tener las habilidades de cualquier animal (por ejemplo, volar como un pájaro o nadar como un delfín), ¿cuál elegirías y por qué?
+¿Eres fanático de los avances tecnológicos? ¿Por qué o por qué no?
+Si pudieras vivir en un universo ficticio (libro, película, programa de televisión), ¿cuál sería y por qué?
+¿Cuál es tu tipo de arte favorito (arte visual, literatura, música, etc.) y por qué?
+Si pudieras tener cualquier trabajo en el mundo por un día, ¿cuál sería y por qué?
+¿Te gusta participar en actividades al aire libre? ¿Por qué o por qué no?
+Si pudieras tener algún animal como compañero, ¿cuál sería y por qué?
+¿Estás interesado en aprender un nuevo pasatiempo o habilidad? ¿Por qué o por qué no?
+Si pudieras visitar algún museo famoso, ¿cuál sería y por qué?
+¿Te gusta asistir a eventos deportivos en vivo? ¿Por qué o por qué no?
+¿Cuál es tu tipo de música favorito y cómo influye en tu estado de ánimo?
+¿Eres fanático de los documentales científicos? ¿Por qué o por qué no?
+Si pudieras ser un personaje de cualquier libro, ¿quién serías y por qué?

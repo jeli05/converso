@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useState } from 'react';
 import TextBox from './TextBox';
-import { it_prompts, de_prompts } from './Prompts.js';
+import { fr_prompts, es_prompts, it_prompts, pt_prompts, de_prompts } from './Prompts.js';
 
 // import { useEffect } from 'react';
 // import { Sapling } from "@saplingai/sapling-js/observer";
@@ -14,11 +14,14 @@ function getDate() {
   return `${month}/${date}/${year}`;
 }
 
-let currLang = 'en';
+let currLang = 'en'; // use default of English
 let languages = {'en': 'English', 'fr': 'French', 'es': 'Spanish', 'it': 'Italian', 'de': 'German', 'pt': 'Portuguese'};
 
 function setPrompts() {
+  localStorage.setItem('fr_prompts', JSON.stringify(fr_prompts));
+  localStorage.setItem('es_prompts', JSON.stringify(es_prompts));
   localStorage.setItem('it_prompts', JSON.stringify(it_prompts));
+  localStorage.setItem('pt_prompts', JSON.stringify(pt_prompts));
   localStorage.setItem('de_prompts', JSON.stringify(de_prompts));
 }
 
@@ -33,8 +36,14 @@ function displayPrompt(lang) {
   var day = Math.floor(diff / oneDay);
   console.log('Day of year: ' + day);
 
-  if (lang === 'it') {
+  if (lang === 'fr') {
+    return fr_prompts[day];
+  } else if (lang === 'es') {
+    return es_prompts[day];
+  } else if (lang === 'it') {
     return it_prompts[day];
+  } else if (lang === 'pt') {
+    return pt_prompts[day];
   } else if (lang === 'de') {
     return de_prompts[day];
   } else {

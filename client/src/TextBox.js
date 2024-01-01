@@ -13,16 +13,14 @@ function getDate() {
     return `${month}/${date}/${year}`;
 }
 
-// append to local storage variable 
-function appendToStorage(name, data){
-    var old = localStorage.getItem(name);
-    if(old === null) old = "";
-    localStorage.setItem(name, old + data);
-}
-
 // initialize responses item in local storage
-if (localStorage.getItem('responses') === null) {
-    localStorage.setItem('responses', '');
+let responses = [];
+if (localStorage.getItem('my_responses') === null) {
+    localStorage.setItem('my_responses', "");
+} else {
+    if (localStorage.getItem('my_responses')) {
+        responses = JSON.parse(localStorage.getItem('my_responses'));
+    }
 }
 
 const TextBox = () => {
@@ -33,7 +31,7 @@ const TextBox = () => {
     Sapling.init({
     endpointHostname: 'http://127.0.0.1:5000',
     saplingPathPrefix: '/sapling',
-    lang: 'it'
+    lang: JSON.parse(localStorage.getItem("currLang")), // change to selected language
     });
 });
 
@@ -62,7 +60,9 @@ const TextBox = () => {
     subentry[currentLang] = formJson;
     entry[todayDate] = subentry;
     console.log(entry);
-    appendToStorage('responses', JSON.stringify(entry));
+    responses.push(entry);
+    localStorage.setItem('my_responses', JSON.stringify(responses));
+    console.log("responses: ", responses);
 
     // use Sapling
     const editor = document.getElementById('editor');
