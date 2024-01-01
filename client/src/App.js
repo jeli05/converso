@@ -14,11 +14,10 @@ function getDate() {
   return `${month}/${date}/${year}`;
 }
 
-let currLang = 'de';
+let currLang = 'en';
 let languages = {'en': 'English', 'fr': 'French', 'es': 'Spanish', 'it': 'Italian', 'de': 'German', 'pt': 'Portuguese'};
 
 function setPrompts() {
-  localStorage.setItem('currLang', JSON.stringify('de'));
   localStorage.setItem('it_prompts', JSON.stringify(it_prompts));
   localStorage.setItem('de_prompts', JSON.stringify(de_prompts));
 }
@@ -43,13 +42,12 @@ function displayPrompt(lang) {
   }
 }
 
-function chooseLanguage(selectedLang) {
-  currLang = selectedLang;
-  return currLang;
+// initialize responses item in local storage
+if (localStorage.getItem('currLang') === null) {
+  localStorage.setItem('currLang', JSON.stringify('en'));
 }
 
-localStorage.setItem('currLang', JSON.stringify('de'));
-console.log(localStorage.getItem('currLang'));
+console.log("Initial currLang: ", localStorage.getItem('currLang'));
 let today_prompt = displayPrompt(JSON.parse(localStorage.getItem('currLang')));
 
 function App() {
@@ -70,16 +68,37 @@ function App() {
   // });
 
   // initialize local storage of prompts
-  chooseLanguage('de');
   setPrompts();
 
   const [currentDate] = useState(getDate());
+
+  const [currentLang, setLang] = useState(JSON.parse(localStorage.getItem('currLang'))); // important to parse first
+
+  currLang = currentLang;
+  console.log("Refreshed currLang: ", currLang);
+
+  function changeLanguage(event) {
+    setLang(event.target.value);
+    currLang = event.target.value;
+    localStorage.setItem('currLang', JSON.stringify(event.target.value));
+    console.log("Switched to " + JSON.stringify(event.target.value) + ": " + languages[currLang]);
+    today_prompt = displayPrompt(event.target.value);
+  }
 
   return (
     <div className='prompt'>
         <h1>Converso: Daily Language Prompts</h1>
         <h2>{currentDate}</h2>
-        <h3>Language: {languages[currLang]}</h3>
+        <h3>Language: {languages[currentLang]}</h3>
+        {/* <h3>Language 2: {currentLang}</h3> */}
+        <select value={currLang} onChange={changeLanguage}>
+          <option value="en">English</option>
+          <option value="fr">French</option>
+          <option value="es">Spanish</option>
+          <option value="it">Italian</option>
+          <option value="pt">Portuguese</option>
+          <option value="de">German</option>
+        </select>
         <p>{today_prompt}</p>
         <TextBox />
     </div>
