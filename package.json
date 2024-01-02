@@ -16,10 +16,11 @@
   "bugs": {
     "url": "https://github.com/jeli05/converso/issues"
   },
-  "homepage": "https://github.com/jeli05/converso#readme",
+  "homepage": "https://github.com/jeli05/converso",
   "dependencies": {
     "axios": "^1.6.2",
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "gh-pages": "^6.1.1"
   }
 }
