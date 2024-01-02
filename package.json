@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/jeli05/converso/issues"
   },
-  "homepage": "https://github.com/jeli05/converso",
+  "homepage": ".",
   "dependencies": {
     "axios": "^1.6.2",
     "cors": "^2.8.5",
